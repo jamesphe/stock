@@ -1,6 +1,9 @@
 # -*- coding: UTF-8 -*-
 
 # 总市值
+from strategy import save_stock_data
+
+
 BALANCE = 200000
 
 
